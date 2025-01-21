@@ -1,7 +1,9 @@
 ```markdown
 # College Admissions Predictor
 
-A Python-based tool to predict the chances of getting into a specific college based on a student's profile. The tool uses the OpenAI API to analyze the provided data and give actionable advice to improve the chances of admission.
+A Python-based tool to predict the chances of getting into a specific college based on a student's
+profile. The tool uses the OpenAI API to analyze the provided data and give actionable advice to
+improve the chances of admission.
 
 ## Table of Contents
 
@@ -17,7 +19,10 @@ A Python-based tool to predict the chances of getting into a specific college ba
 
 ## Description
 
-College Admissions Predictor is a tool designed to help prospective students assess their chances of getting into a specific college. By inputting their academic and extracurricular information, students can receive an estimated admission percentage and tailored advice on how to improve their application.
+College Admissions Predictor is a tool designed to help prospective students assess their chances of
+getting into a specific college. By inputting their academic and extracurricular information,
+students can receive an estimated admission percentage and tailored advice on how to improve their
+application.
 
 ## Features
 
@@ -71,7 +76,8 @@ College Admissions Predictor is a tool designed to help prospective students ass
 
 ## Configuration
 
-The tool can be configured by modifying the `config.json` file. Here you can set various parameters such as the OpenAI model to use, the prompt template, and other preferences.
+The tool can be configured by modifying the `config.json` file. Here you can set various parameters
+such as the OpenAI model to use, the prompt template, and other preferences.
 
 Example `config.json`:
 
@@ -102,6 +108,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Name:** Santiago Gutierrez
+- **Email:** santigutierrezsch@gmail.com
+- **GitHub:** [santigutierrezsch](https://github.com/santigutierrezsch)
+
+
+
+
+
+
+
+
+Made by Santi.
