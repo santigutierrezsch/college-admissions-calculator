@@ -85,7 +85,11 @@ Example `config.json`:
 {
     "model": "gpt-4o-mini-2024-07-18",
     "max_tokens": 500,
-    "prompt_template": "Based on the following student profile, calculate the percentage chance of getting into {college_name} and provide actionable advice to improve their chances:\n\nStudent Profile:\n- GPA: {GPA}\n- SAT Score: {SAT}\n- ACT Score: {ACT}\n- Extracurriculars: {Extracurriculars}\n- Intended Major: {Major}\n- State of Residence: {State}\n- Additional Info: {AdditionalInfo}\n\nProvide a JSON response with these keys:\n- \"chance\" (admission percentage)\n- \"tips\" (advice to improve chances)"
+    "prompt_template": "Based on the following student profile, calculate the percentage chance of
+getting into {college_name} and provide actionable advice to improve their chances:\n\nStudent
+Profile:\n- GPA: {GPA}\n- SAT Score: {SAT}\n- ACT Score: {ACT}\n- Extracurriculars: {Extracurriculars}
+\n- Intended Major: {Major}\n- State of Residence: {State}\n- Additional Info: {AdditionalInfo}\n\nProvide
+ a JSON response with these keys:\n- \"chance\" (admission percentage)\n- \"tips\" (advice to improve chances)"
 }
 ```
 
