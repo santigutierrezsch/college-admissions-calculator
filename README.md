@@ -1,5 +1,3 @@
-Sure, I'll create a comprehensive README file that covers essential sections for your project. This README template will include Project Title, Description, Features, Installation, Usage, Configuration, Contributing, License, and Contact Information.
-
 ```markdown
 # College Admissions Predictor
 
@@ -107,7 +105,3 @@ If you have any questions or suggestions, feel free to reach out:
 - **Name:** Your Name
 - **Email:** your.email@example.com
 - **GitHub:** [yourusername](https://github.com/yourusername)
-
----
-
-This README template provides a comprehensive overview of the project, covering all essential sections to help users understand, install, and contribute to the project. Feel free to customize it further to fit your specific needs.
