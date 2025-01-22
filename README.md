@@ -1,4 +1,3 @@
-```markdown
 # College Admissions Predictor
 
 A Python-based tool to predict the chances of getting into a specific college based on a student's
